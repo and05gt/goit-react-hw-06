@@ -1,0 +1,10 @@
+#root {
+  max-width: 1440px;
+  padding: 24px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-bottom: 24px;
+  display: inline-block;
+}
